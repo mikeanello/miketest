@@ -8,4 +8,8 @@ This is boring
 dummy stuff
 more stuff to branch
 yes this is a branchd
-
+this is a conflict
+that we need to resolve
+Wow how many lines 
+What is going on
+here
