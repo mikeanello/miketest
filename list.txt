@@ -1,0 +1,28 @@
+total 4684
+-rw-rw-r--.  1 mike mike 1950246 Jun  2  2010 100_0154.jpeg
+-rw-rw-r--.  1 mike mike 1968508 Jun  2  2010 100_0312.jpeg
+drwxr-xr-x  10 mike mike    4096 Mar 19 03:23 android-ndk-r8e
+drwxrwxr-x  11 mike mike    4096 May 12 06:17 android-sdks
+drwxrwxr-x.  2 mike mike    4096 May 12  2010 bin
+drwxr-xr-x.  2 mike mike    4096 Apr  3  2011 Desktop
+drwxr-xr-x.  3 mike mike    4096 Jul 30  2010 Documents
+drwxr-xr-x. 12 mike mike    4096 May 12 05:52 Downloads
+drwxrwxr-x.  6 mike mike    4096 May  4  2010 Drivers
+drwxrwxr-x   3 mike mike    4096 May 13 09:28 gitclass
+-rw-------.  1 mike mike    1675 Jun  7  2010 id_rsa
+-rw-r--r--.  1 mike mike     411 Jun  7  2010 id_rsa.pub
+-rw-rw-r--.  1 mike mike   52899 May  6  2010 Ip Man 2.DVDrip.Xvid.srt
+-rwxrwxrwx.  1 root root  148531 Mar  8  2011 messages
+-rw-rw-r--.  1 mike mike   16832 Apr 13  2011 mike.doc
+-rw-rw-r--.  1 mike mike  542720 Jun 13  2010 mike.tar
+drwxr-xr-x.  2 mike mike    4096 May  1  2010 Music
+drwxr-xr-x.  3 mike mike    4096 Mar  9  2011 Pictures
+drwxr-xr-x.  2 mike mike    4096 May  1  2010 Public
+drwxr-xr-x.  2 mike mike    4096 Apr 13  2011 RageAgainstTheCage
+drwxr-xr-x.  2 mike mike    4096 May  1  2010 Templates
+drwxr-xr-x.  3 mike mike    4096 May 26  2010 Videos
+drwxr-xr-x.  6 mike mike    4096 May 26  2010 vim
+-rw-------.  1 mike mike    8071 May 18  2010 vminfo
+drwxrwxr-x.  3 mike mike    4096 May  9  2010 Work
+drwxrwxr-x   5 mike mike    4096 May 12 05:43 workspace
+-rw-r--r--.  1 mike mike   13185 May 15  2010 x.c
